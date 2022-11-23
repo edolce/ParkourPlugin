@@ -1,0 +1,5 @@
+name: ParkourPlugin
+version: '${project.version}'
+main: edolce.parkourplugin.ParkourPlugin
+depend: [WorldGuard]
+api-version: 1.18
